@@ -25,4 +25,5 @@ int main(){
         else if (str == 'D' || str == 'd')
             tmp = 0;
     }
+    return 0;
 }
